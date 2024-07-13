@@ -1,6 +1,6 @@
 # Projeto: Criando e utilizando a carteira de criptomoedas
 
-Este projeto é um tutorial prático sobre como criar e utilizar uma carteira de criptomoedas básica na testnet do Bitcoin, utilizando VS Code e Electrum.
+Este projeto demonstra a criação e utilização básica de uma carteira de criptomoedas na testnet do Bitcoin, utilizando VS Code e Electrum.
 
 ## Funcionalidades
 
