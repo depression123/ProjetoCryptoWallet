@@ -11,5 +11,6 @@ Este projeto demonstra a criação e utilização básica de uma carteira de cri
 ## Tecnologias utilizadas
 
 - VS Code
+- Node.js
 - Electrum
 - Bitcoin Testnet
